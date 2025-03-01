@@ -38,8 +38,8 @@ The dataset includes:
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DeepDetect.git
-   cd DeepDetect
+   git clone https://github.com/djdiptayan1/AnomalyDetection.git
+   cd AnomalyDetection
    ```
 2. Install the required dependencies:
    ```bash
